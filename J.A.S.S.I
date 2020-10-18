@@ -6,11 +6,10 @@ import wikipedia
 import PySimpleGUI as ai
 import pyttsx3
 #import PyPDF2
-#from tkinter.filedialog import *
 
-#window color scheme
+#window color layout
 ai.theme('DarkTeal')	
-#window layout
+#window design layout
 layout = [  [ai.Text('J.A.S.S.I : what would you like me to do ?')],
             [ai.Text('A.I User'), ai.InputText()],
             [ai.Button('Search'), ai.Button('Exit')] ]
