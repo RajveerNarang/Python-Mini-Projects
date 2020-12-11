@@ -17,3 +17,6 @@ This is kind of a Pseudo AI that enables one to learn how to make a API Calling 
 
 # 4. Turtle Food Marker
 A Simple program that marks the coordinate points in the window with a triangle wherever the turtle has eaten the food.
+
+# 5. GUI Calculator
+A Basic Calculator having a GUI does basic evaluations (using tkinter).
