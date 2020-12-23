@@ -20,3 +20,9 @@ A Simple program that marks the coordinate points in the window with a triangle 
 
 # 5. GUI Calculator
 A Basic Calculator having a GUI does basic evaluations (using tkinter).
+
+
+# 6. Text Writer 
+A Text Editing Application with all the expected functionality.
+
+P.S.- More Fonts in Writer coming soon.....
