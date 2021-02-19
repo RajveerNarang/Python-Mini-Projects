@@ -13,4 +13,16 @@ This is one of the simplest ones using tts in this case ptts i have created a pr
 This is the classic Pong Game with a little colour twist making it a bit more modern compared to the black and white counterpart
 
 # 3. J.A.S.S.I( Just Another System P(Seudo) A.I )
-This is kind of a Pseudo AI that enables one to learn how to make a API Calling Properly I have Used Wikipedia and WolframAlpha for the two information Sources it also has Simple GUI for some visual site.
+This is kind of a Pseudo AI that enables one to learn how to make a API Calling Properly. I have Used Wikipedia and WolframAlpha for the two information Sources it also has Simple GUI for some visual site.
+
+# 4. Turtle Food Marker
+A Simple program that marks the coordinate points in the window with a triangle wherever the turtle has eaten the food.
+
+# 5. GUI Calculator
+A Basic Calculator having a GUI does basic evaluations (using tkinter).
+
+
+# 6. Text Writer 
+A Text Editing Application with all the expected functionality.
+
+P.S.- More Fonts in Writer coming soon.....

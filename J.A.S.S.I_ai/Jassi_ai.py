@@ -1,5 +1,6 @@
 import wolframalpha
-client = wolframalpha.Client("Your API Key Here")
+#Enter your API Key
+client = wolframalpha.Client("Your API Key from Wolframalpha")
 
 import wikipedia
 
